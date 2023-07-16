@@ -1,4 +1,6 @@
 package arrays
+
+const val test = 10;
 fun main() {
     var numerosImpares: Array<Int> = arrayOf(1,3,5,7,9,11,13,15,17,19,21)
     var primeiro_el = 0
