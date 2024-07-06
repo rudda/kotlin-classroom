@@ -26,7 +26,6 @@ fun main() {
         "Vasco da Gama"
     )
 
-
     // contar quantos times há no array
     val tamanhoDoArray = serieATimes.size
     println("o tamanho do array é: $tamanhoDoArray")
